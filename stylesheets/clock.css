@@ -1,0 +1,10 @@
+.clock {
+  border: black 3px solid;
+  border-radius: 5px;
+  background-color: lightyellow;
+
+  xwidth: 400px;
+  padding: 20px;
+
+  text-align: right;
+}
